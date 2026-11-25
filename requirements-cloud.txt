@@ -1,0 +1,5 @@
+# Необязательные зависимости для реальной отправки в облако
+boto3>=1.34
+azure-identity>=1.15
+azure-monitor-ingestion>=1.0
+azure-storage-blob>=12.19

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+output/
+logs/
+roi.png
+network_traffic_analysis.png
+.idea/
+.vscode/
